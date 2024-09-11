@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(190, 173, 238);
+}
+.titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.titulo p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color: rgb(240, 229, 180);
+    font-weight: bold;
+}
+.titulo img{
+    width: 500px;
+    margin: 50px;
+}
+.enlace{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.enlace a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    font-style: italic;
+}
+.subtitulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.subtitulo p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+.contenido{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contenido p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+.contenido img{
+    width: 500px;
+    margin: 50px;
+}
